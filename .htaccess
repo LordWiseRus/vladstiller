@@ -1,3 +1,0 @@
-RewriteEngine On
-#RewriteCond %{HTTP_HOST} vladstiller.com
-RewriteRule (.*) https://selyukov.ru/ [L,R=permanent]
