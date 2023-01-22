@@ -1,0 +1,5 @@
+User-agent: *
+
+Host: https://vladstiller.com
+
+Disallow: /404.html
